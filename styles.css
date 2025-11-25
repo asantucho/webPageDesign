@@ -226,13 +226,13 @@ section{
 
 .gallery-section img {
     width: 100%;
-    max-width: 600px;      /* limit how wide the image can appear */
+    max-width: 600px;
     height: auto;
-    max-height: 450px;     /* limit height so they aren’t enormous */
+    max-height: 450px;
     object-fit: cover;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.20);
-    margin: 0 auto;        /* center the image */
+    margin: 0 auto;
     display: block;
 }
 
